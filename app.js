@@ -47,6 +47,7 @@ var showQuestion = function(question) {
         '<p>Reputation: ' + question.owner.reputation + '</p>'
     );
 
+
     return result;
 };
 
