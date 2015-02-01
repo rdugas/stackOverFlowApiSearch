@@ -44,3 +44,19 @@
 	background-color: #F78181;
 	padding: 1em;
 }
+
+dl {
+	background-color: #ff9933;
+}
+
+dt {
+	font-weight: bold;
+}
+
+dl,dt, dd {
+	color: #3d3d29;
+}
+
+.asker {
+	padding: 0;
+}
